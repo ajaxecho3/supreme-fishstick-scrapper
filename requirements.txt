@@ -1,0 +1,15 @@
+# Python dependencies
+requests
+beautifulsoup4
+pandas
+openpyxl
+matplotlib
+pytest
+
+# Core web scraping and HTTP
+aiohttp
+httpx
+selenium
+playwright
+feedparser
+lxml

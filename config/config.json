@@ -1,0 +1,7 @@
+{
+  "timeout": 30,
+  "output_dir": "data/output",
+  "log_dir": "logs",
+  "proxy_file": "config/proxies.json",
+  "user_agent_file": "config/user_agents.json"
+}
